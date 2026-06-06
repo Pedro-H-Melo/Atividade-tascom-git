@@ -15,4 +15,6 @@ for (let numero = 2; numero <= 100; numero++) {
     }
 
     console.log(numero);
+    console.log(test);
+    console.log(pato)
 }
